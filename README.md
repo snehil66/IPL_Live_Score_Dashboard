@@ -26,13 +26,13 @@ Responsive Design: Made sure it works well on all devices and screen sizes.
 
 1. Real-Time Data Integration:
 
-1.1 Integrate live data from the Cricbuzz API to ensure that users receive the most current scores, player stats, and match updates.
+-1.1 Integrate live data from the Cricbuzz API to ensure that users receive the most current scores, player stats, and match updates.
 
 2. User Engagement:
 
-2.1 Design custom visualizations to make the data engaging and easily understandable.
+-2.1 Design custom visualizations to make the data engaging and easily understandable.
 
-2.2 Implement interactive features that allow users to explore different aspects of the match, such as player performance and team standings.
+-2.2 Implement interactive features that allow users to explore different aspects of the match, such as player performance and team standings.
 
 3. Comprehensive Match Insights:
 
