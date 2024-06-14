@@ -5,7 +5,7 @@
 ## Objective
 The primary objective of building the IPL Live Score Dashboard is to provide cricket fans with a seamless, real-time platform for accessing live scores, player statistics, and match highlights. By leveraging the capabilities of Power BI and integrating live data from the Cricbuzz API, the dashboard aims to enhance the viewing experience through dynamic visualizations and interactive features. This project also seeks to demonstrate the potential of data visualization tools in transforming raw sports data into valuable insights for both casual viewers and data enthusiasts.
 
-![home_page](https://github.com/teapositve/IPL_Live_Score_Dashboard/issues/1#issue-2353986099)
+![Home Page](https://github.com/teapositve/IPL_Live_Score_Dashboard/issues/1#issue-2353986099)
 
 ## Features
 
@@ -15,7 +15,7 @@ The primary objective of building the IPL Live Score Dashboard is to provide cri
 
 📱 Mobile-Friendly: Access the dashboard on your phone, tablet, or computer, so you never miss any action.
 
-![live_score](https://github.com/teapositve/IPL_Live_Score_Dashboard/issues/2#issue-2353986999)
+![Live Score](https://github.com/teapositve/IPL_Live_Score_Dashboard/issues/2#issue-2353986999)
 
 ## Key Highlights:
 
@@ -51,6 +51,6 @@ Responsive Design: Made sure it works well on all devices and screen sizes.
    - Utilize the robust features of Power BI to create intuitive and visually appealing dashboards.
    - Employ various types of visualizations, such as bar charts, line graphs, and pie charts, to present data in a meaningful way.
 
-![points table](https://github.com/teapositve/IPL_Live_Score_Dashboard/issues/1#issue-2353986099)
+![Points Table](https://github.com/teapositve/IPL_Live_Score_Dashboard/issues/1#issue-2353986099)
 
 By focusing on these insights, the IPL Live Score Dashboard aims to deliver an unparalleled viewing experience that combines the excitement of live cricket with the power of data-driven insights.
