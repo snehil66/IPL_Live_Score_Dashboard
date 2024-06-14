@@ -49,4 +49,5 @@ Responsive Design: Made sure it works well on all devices and screen sizes.
    - Employ various types of visualizations, such as bar charts, line graphs, and pie charts, to present data in a meaningful way.
 
 
+
 By focusing on these insights, the IPL Live Score Dashboard aims to deliver an unparalleled viewing experience that combines the excitement of live cricket with the power of data-driven insights.
