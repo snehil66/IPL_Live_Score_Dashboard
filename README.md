@@ -25,31 +25,28 @@ Responsive Design: Made sure it works well on all devices and screen sizes.
 
 1. Real-Time Data Integration:
    
-   -Integrate live data from the Cricbuzz API to ensure that users receive the most current scores, player stats, and match updates.
+   - Integrate live data from the Cricbuzz API to ensure that users receive the most current scores, player stats, and match updates.
 
 2. User Engagement:
    
-        2.1 Design custom visualizations to make the data engaging and easily understandable.
-        2.2 Implement interactive features that allow users to explore different aspects of the match, such as player performance and team standings.
-
+   - Design custom visualizations to make the data engaging and easily understandable.
+   - Implement interactive features that allow users to explore different aspects of the match, such as player performance and team standings.
 
 3. Comprehensive Match Insights:
    
-        3.1 Provide detailed insights into each match, including scoring patterns, key moments, and player contributions.
-        3.2 Use charts and graphs to highlight trends and patterns that can help users understand the flow of the game.
-
-
+   - Provide detailed insights into each match, including scoring patterns, key moments, and player contributions.
+   - Use charts and graphs to highlight trends and patterns that can help users understand the flow of the game.
 
 4. Accessibility:
    
-        4.1 Ensure the dashboard is mobile-friendly and accessible on various devices, including smartphones, tablets, and desktops.
-        4.2 Optimize the design for different screen sizes to provide a seamless user experience.
+   - Ensure the dashboard is mobile-friendly and accessible on various devices, including smartphones, tablets, and desktops.
+   - Optimize the design for different screen sizes to provide a seamless user experience.
 
 
 5. Data Visualization:
-   
-        5.1 Utilize the robust features of Power BI to create intuitive and visually appealing dashboards.
-        5.2 Employ various types of visualizations, such as bar charts, line graphs, and pie charts, to present data in a meaningful way.
+
+   - Utilize the robust features of Power BI to create intuitive and visually appealing dashboards.
+   - Employ various types of visualizations, such as bar charts, line graphs, and pie charts, to present data in a meaningful way.
 
 
 By focusing on these insights, the IPL Live Score Dashboard aims to deliver an unparalleled viewing experience that combines the excitement of live cricket with the power of data-driven insights.
