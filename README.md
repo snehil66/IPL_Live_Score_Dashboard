@@ -1,10 +1,11 @@
 # IPL Live Score Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
+### Dashboard Link: https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
 
 ## Objective
 The primary objective of building the IPL Live Score Dashboard is to provide cricket fans with a seamless, real-time platform for accessing live scores, player statistics, and match highlights. By leveraging the capabilities of Power BI and integrating live data from the Cricbuzz API, the dashboard aims to enhance the viewing experience through dynamic visualizations and interactive features. This project also seeks to demonstrate the potential of data visualization tools in transforming raw sports data into valuable insights for both casual viewers and data enthusiasts.
 
+https://github.com/teapositve/IPL_Live_Score_Dashboard/issues/1#issue-2353986099
 
 ## Features
 
