@@ -15,6 +15,8 @@ The primary objective of building the IPL Live Score Dashboard is to provide cri
 
 📱 Mobile-Friendly: Access the dashboard on your phone, tablet, or computer, so you never miss any action.
 
+![live_score](https://github.com/teapositve/IPL_Live_Score_Dashboard/issues/2#issue-2353986999)
+
 ## Key Highlights:
 
 Power BI: Used Power BI to create an easy-to-use dashboard.
@@ -49,6 +51,6 @@ Responsive Design: Made sure it works well on all devices and screen sizes.
    - Utilize the robust features of Power BI to create intuitive and visually appealing dashboards.
    - Employ various types of visualizations, such as bar charts, line graphs, and pie charts, to present data in a meaningful way.
 
-
+![points table](https://github.com/teapositve/IPL_Live_Score_Dashboard/issues/1#issue-2353986099)
 
 By focusing on these insights, the IPL Live Score Dashboard aims to deliver an unparalleled viewing experience that combines the excitement of live cricket with the power of data-driven insights.
